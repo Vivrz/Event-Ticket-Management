@@ -46,6 +46,7 @@
     font-weight: 900;
     font-size: 15px;
     margin-top: 20px;
+    border-radius: 5px;
 }
 
 .image{
@@ -81,6 +82,7 @@
 .back_home button{
     font-size: 15px;
     cursor: pointer;
+    border-radius: 5px;
 }
 .image_title span{
     display: flex;

@@ -1,5 +1,5 @@
 .container{
-    background-image: linear-gradient(to right, #401a29 , #8a3758);
+    background-image: linear-gradient(to right, #401a29 ,#8a3758 );
     height: 100px;
     width: 100%;
     display: flex;
@@ -37,4 +37,8 @@
     font-weight  : 900;
     border :none;
     margin: 0px 30px;
+    border-radius: 5px;
+}
+.notified button:hover{
+    color: #401a29;
 }
